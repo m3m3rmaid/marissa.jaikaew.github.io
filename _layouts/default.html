@@ -21,7 +21,7 @@
 
       <nav class="navigation">
         {% for page in site.pages %}
-          <a href="{{ page.url }}" class="btn">{{ page.title }}</a>
+          <a href="{{ page.filename }}" class="btn">{{ page.title }}</a>
         {% endfor %}
       </nav>
       {% if site.github.is_project_page %}
