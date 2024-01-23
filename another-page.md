@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: Resume/CV
+description: Resume
 ---
 
 ## Welcome to another page
