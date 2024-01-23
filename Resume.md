@@ -1,8 +1,10 @@
+
 ---
-layout: default
 title: Resume
-description: Resume.md
----
+layout: default
+filename: Resume.md
+--- 
+
 
 ## Welcome to another page
 
