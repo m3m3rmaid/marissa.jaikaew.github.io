@@ -4,16 +4,6 @@ layout: default
 
 
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Marissa Jaikaew
-
 a Data Analyst with a specialized background in pharmacy, proficient in Python, R, and Tableau. My work reflects a deep commitment to excellence, blending data analysis  to drive operational improvements and innovative insight.
 
 ## About Me
