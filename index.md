@@ -1,5 +1,7 @@
 ---
+title: About Me
 layout: default
+filename: index.md
 ---
 
 
