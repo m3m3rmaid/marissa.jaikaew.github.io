@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Resume/CV
-description: Resume
+title: Resume
+description: Resume.md
 ---
 
 ## Welcome to another page
