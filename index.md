@@ -2,6 +2,8 @@
 layout: default
 ---
 
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -10,15 +12,25 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Marissa Jaikaew
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+a Data Analyst with a specialized background in pharmacy, proficient in Python, R, and Tableau. My work reflects a deep commitment to excellence, blending data analysis  to drive operational improvements and innovative insight.
 
-## Header 2
+## About Me
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+🌟 Data Enthusiast with a Dash of Humor and a Dose of Pharma Insight 🌟
+
+Hello there! I'm not your regular pharmacist who once filled your prescription; I'm the one who also envisioned how the pharmaceutical industry could benefit from innovative business strategies and effective marketing! Over the years, my career has taken me from ensuring the safe delivery of pharmacy services at hospital, to paving new business development pathways. My forte? Harnessing the power of data to drive results! 📈
+
+💡 Key Highlights:
+
+- Spearheaded numerous successful omni-channel product launches, witnessing a whopping 65% expansion in the customer base.
+- Became a data maestro, using Google Analytics and strategic scripts, escalating customer retention by 60%.
+- Fused my pharmacy background with business acumen, resulting in partnerships with international medical device firms, driving a substantial 28% revenue boost in a single year.
+
+As I venture into the world of data analytics, I'm keen to blend my pharmacy background and marketing expertise to bring unique insights to the table. Always ready for a good chuckle and a challenging data set! 
+
+Feel free to connect with or contact me via [LinkedIn](https://www.linkedin.com/in/marissa-jaikaew-1155911mar/).
 
 ### Header 3
 
