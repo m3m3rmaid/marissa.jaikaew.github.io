@@ -20,9 +20,9 @@
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
 
       {% for page in site.pages %}
-        {% unless page.title == "Where to get help" %}
+        {% if page.title and page.url %}
           <a href="{{ page.url | relative_url }}" class="btn">{{ page.title }}</a>
-        {% endunless %}
+        {% endif %}
       {% endfor %}
 
       {% if site.github.is_project_page %}
