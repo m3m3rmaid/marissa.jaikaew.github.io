@@ -4,9 +4,11 @@ layout: default
 filename: index.md
 ---
 
+## Hello.
+# My name is Marissa
+I am a Junior Data Analyst who love Calisthenic.
 
 
-a Data Analyst with a specialized background in pharmacy, proficient in Python, R, and Tableau. My work reflects a deep commitment to excellence, blending data analysis  to drive operational improvements and innovative insight.
 
 ## About Me
 
