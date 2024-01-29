@@ -4,6 +4,8 @@ layout: default
 filename: index.md
 ---
 
+<img src="https://github.com/m3m3rmaid/marissa.jaikaew.github.io/blob/master/Marissa01.png" alt="Marissa01" style="display: block; margin-left: auto; margin-right: auto;">
+
 
 ## 🚀About me
 
