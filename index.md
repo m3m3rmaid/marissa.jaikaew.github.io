@@ -10,21 +10,25 @@ I am a Junior Data Analyst who love Calisthenic.
 
 
 
-## About Me
+## 🚀About me
 
-🌟 Data Enthusiast with a Dash of Humor and a Dose of Pharma Insight 🌟
+Hello there! 👋 I'm Marissa, and I've transitioned from pharmacy to becoming an enthusiastic data analyst.   🚀
 
-Hello there! I'm not your regular pharmacist who once filled your prescription; I'm the one who also envisioned how the pharmaceutical industry could benefit from innovative business strategies and effective marketing! Over the years, my career has taken me from ensuring the safe delivery of pharmacy services at hospital, to paving new business development pathways. My forte? Harnessing the power of data to drive results! 📈
+🤝 I'm currently on the lookout for opportunities to bring my analytical skills to a new role as a Data Analyst.
 
-💡 Key Highlights:
+My career has taken an exciting turn. I moved from working in pharmacy marketing to the world of data analytics. I changed paths because I realized that analyzing data can uncover lots of interesting and important information. 💡
 
-- Spearheaded numerous successful omni-channel product launches, witnessing a whopping 65% expansion in the customer base.
-- Became a data maestro, using Google Analytics and strategic scripts, escalating customer retention by 60%.
-- Fused my pharmacy background with business acumen, resulting in partnerships with international medical device firms, driving a substantial 28% revenue boost in a single year.
+✨Alongside my analytics work, I also give back to the community by being part of the [Learning and Applied Research team at Okanagan College](https://www.okanagan.bc.ca/learning-and-applied-research). In this role, I use my data skills to help Okanagan breweries become more cost-effective on waste water management. 
 
-As I venture into the world of data analytics, I'm keen to blend my pharmacy background and marketing expertise to bring unique insights to the table. Always ready for a good chuckle and a challenging data set! 
 
-Feel free to connect with or contact me via [LinkedIn](https://www.linkedin.com/in/marissa-jaikaew-1155911mar/).
+Outside the world of tech, you can find me embracing the great outdoors. 🏃‍♂️ I love running and I'm proud to have completed a full marathon in Bangkok in 2020.
+
+🚴Cycling and hiking are also my go-to activities. 🌲 And recently, I've taken up calisthenics to boost my energy levels and sharpen my focus and concentration. It's all about balance, right?
+
+🌎Traveling is another passion of mine. It's a way to connect with different cultures, perspectives, and experiences - much like how we connect through code and technology. 
+
+Let's stay connected! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/marissa-jaikaew-1155911mar/)  ✨
+
 
 ### Header 3
 
